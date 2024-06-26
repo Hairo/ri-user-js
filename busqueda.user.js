@@ -5,8 +5,10 @@
 // @require     https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.2/waitForKeyElements.js
 // @grant       GM.openInTab
 // @grant       none
-// @version     0.3
+// @version     0.3.1
 // @author      -
+// @homepageURL	https://github.com/Hairo/ri-user-js/
+// @downloadURL	https://github.com/Hairo/ri-user-js/raw/main/busqueda.user.js
 // @description 13/10/2023, 1:06:32 p. m.
 // ==/UserScript==
 
