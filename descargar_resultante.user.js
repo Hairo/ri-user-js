@@ -4,9 +4,10 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://servicios.ri.gob.do/LocalizadorDeInmuebles
 // @grant       none
-// @version     0.4
+// @version     0.4.1
 // @author      -
 // @run-at      document-start
+// @updateURL	https://github.com/Hairo/ri-user-js/raw/main/descargar_resultante.user.js
 // @description 26/6/2024, 11:16:32 a. m.
 // ==/UserScript==
 
@@ -168,7 +169,7 @@ const kml_template = `<?xml version="1.0" encoding="UTF-8"?>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
-              		    REPL_LL
+              		    			REPL_LL
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
