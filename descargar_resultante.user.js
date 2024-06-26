@@ -4,9 +4,10 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://servicios.ri.gob.do/LocalizadorDeInmuebles
 // @grant       none
-// @version     0.4.1
+// @version     0.4.2
 // @author      -
 // @run-at      document-start
+// @homepageURL	https://github.com/Hairo/ri-user-js/
 // @updateURL	https://github.com/Hairo/ri-user-js/raw/main/descargar_resultante.user.js
 // @description 26/6/2024, 11:16:32 a. m.
 // ==/UserScript==
