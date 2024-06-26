@@ -8,7 +8,7 @@
 // @author      -
 // @run-at      document-start
 // @homepageURL	https://github.com/Hairo/ri-user-js/
-// @updateURL	https://github.com/Hairo/ri-user-js/raw/main/descargar_resultante.user.js
+// @downloadURL	https://github.com/Hairo/ri-user-js/raw/main/descargar_resultante.user.js
 // @description 26/6/2024, 11:16:32 a. m.
 // ==/UserScript==
 
